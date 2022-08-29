@@ -4,12 +4,12 @@
 
 <b>Input:</b>
 
-   &empsp;<b>p</b>, principal amount
+   &emsp;<b>p</b>, principal amount
    
-   &empsp;<b>t</b>, time period in years
+   &emsp;<b>t</b>, time period in years
    
-   &empsp;<b>r</b>, annual rate of interest
+   &emsp;<b>r</b>, annual rate of interest
    
 <b>Output</b>
 
-   &empsp;<b>simple interest</b> = p*t*r
+   &emsp;<b>simple interest</b> = p*t*r
